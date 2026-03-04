@@ -81,7 +81,7 @@ Some important insights from the analysis include:
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard.png)
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
@@ -92,3 +92,4 @@ This dashboard provides a clear overview of sales performance and profitability 
 ---
 
 ⭐ If you found this project useful, feel free to star the repository!
+
